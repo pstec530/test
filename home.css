@@ -1,0 +1,192 @@
+html {
+   background: #fff; 
+    
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5em .4em 0;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10% 0 20%;
+}
+
+.navagation {
+    display: inline-flex;
+    list-style: none;
+    padding: 2em 0;
+    align-items: center;
+    background: #bb0000;
+    margin-top: 0;
+}
+
+li {
+    
+}
+
+li a {
+    color: #fff;
+    font-weight: 400;
+    font-size: .7em;
+    text-decoration: none;
+    margin: 0;
+    padding: 2.7em;
+}
+
+li a:hover {
+    color: #111;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-left: .3rem;
+    margin-bottom: 0;
+}
+
+h5 {
+    font-size: 1.3em;
+    font-weight: 400;
+    margin-left: .3rem;
+    margin-top: .5rem;
+}
+
+.info {
+    margin: 0 5% 0 15%;
+    padding: 0;
+}
+
+p {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.about {
+    margin: 0 10% 5em 22%;
+    display: flex;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.about p {
+    font-weight: 400;
+    font-size: 1.1em;
+    margin-left: 1em;
+    line-height: 1.5em;
+    margin-bottom: 2em;
+}
+
+.aPics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aasbc {
+    margin-top: 3em;
+    width: 280px;
+    height: 279px;
+}
+
+.aWords ul {
+    margin-bottom: 2em;
+}
+
+.people {
+    height: 287px;
+    width: 326px;
+}
+
+.rsbp {
+    list-style: none;
+    font-style: italic;
+    font-size: 1.2em;
+    text-indent: 1.6em;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
+.service {
+    margin-left: 22%;
+    margin-right: 10%;
+}
+
+.serv {
+    font-weight: 500;
+}
+
+.service p {
+    font-weight: 400;
+    font-size: 1.3em;
+    margin-left: 1em;
+}
+
+.servFP {
+    margin-bottom: 1em;
+}
+
+.service div {
+    display: inline-flex;
+}
+
+.service img {
+    height: 52px;
+    width: 52px;
+    margin-top: .4em;
+}
+
+.contacts {
+    margin-left: 22%;
+    margin-right: 10%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contacts p {
+    font-size: 1.25em;
+    font-weight: 400;
+    margin-left: 1em;
+    margin-bottom: 2em;
+    line-height: 1.4em;
+}
+
+footer {
+    text-align: center;
+    margin-top: 4em;
+    margin-bottom: 2em;
+}
+
+.show {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contactInfo {
+    width: 55%;
+}
+
+.slideshow {
+    text-align: center;
+}
+.imageS {
+    height: 350px;
+    width: 350px;
+}

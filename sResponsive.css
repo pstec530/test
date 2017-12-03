@@ -1,0 +1,24 @@
+@media screen and (max-width: 1100px) and (min-width: 300px) {
+    
+    .main nav ul{
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .main nav ul li a {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .main {
+        margin: 0;
+        display: block;
+        background: #bb0000;
+        
+    }
+    
+    .service {
+        margin: 0 2.5%;
+    }
+    
+}
