@@ -1,1 +1,1 @@
-# Website for father's consultig business
+# Website for father's consulting business
